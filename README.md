@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 19 Progressive Web Applications (PWA): Text Editor
+=======
+# Progressive-Web-Applications-PWA-Challenge-Text-Editor
+>>>>>>> b743c6fc7bec02c0c362c20e75d2572217635e4d
 
 ## Your Task
 
